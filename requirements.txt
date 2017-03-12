@@ -1,0 +1,6 @@
+Flask==0.12
+Flask_Cors==3.0.2
+Flask_SQLAlchemy==2.2
+SQLAlchemy==1.1.6
+psycopg2==2.7
+python_dateutil==2.6.0
